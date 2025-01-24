@@ -1,0 +1,19 @@
+Cancer,Unique Genes,Minimal Unique Subsets
+Bladder Urothelial Carcinoma (TCGA),{'POU4F3'},[{'POU4F3'}]
+Breast Invasive Carcinoma (TCGA),"{'IRX5', 'DUX4', 'TRPS1'}","[{'IRX5'}, {'DUX4'}, {'TRPS1'}]"
+Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),{'TLX2'},[{'TLX2'}]
+Colon Adenocarcinoma (TCGA),{''},[]
+Glioblastoma Multiforme (TCGA),"{'SCRT2', 'MEOX2', 'HMX1'}","[{'SCRT2'}, {'MEOX2'}, {'HMX1'}]"
+Head and Neck Squamous Cell Carcinoma (TCGA),{''},[]
+Kidney Chromophobe (TCGA),{'NKX6-1'},[{'NKX6-1'}]
+Kidney Renal Clear Cell Carcinoma (TCGA),{'TAL2'},[{'TAL2'}]
+Lung Adenocarcinoma (TCGA),"{'TBX4', 'TBX5'}","[{'TBX4'}, {'TBX5'}]"
+Ovary Serous Cystadenocarcinoma (TCGA),{'PHOX2A'},[{'PHOX2A'}]
+Pancreatic Adenocarcinoma (TCGA),{'ISL1'},[{'ISL1'}]
+Prostate Adenocarcinoma (TCGA),"{'BHLHA15', 'HOXB13', 'NKX3-1'}","[{'BHLHA15'}, {'HOXB13'}, {'NKX3-1'}]"
+Rectum Adenocarcinoma (TCGA),{''},[]
+Skin Cuteneous Melanoma (TCGA),"{'MITF', 'SOX10'}","[{'MITF'}, {'SOX10'}]"
+Stomach Adenocarcinoma (TCGA),{'NEUROG3'},[{'NEUROG3'}]
+Testicular Germ Cell Tumor (TCGA),"{'FOXI3', 'NEUROG1', 'DMRTB1', 'ZNF729', 'ZSCAN10', 'PRDM14', 'FOXR1', 'DNMT3L', 'ESX1', 'KLF17', 'DNMT3B', 'ZNF534', 'ZIC3', 'ALX4', 'ZNF90', 'ZFP42', 'ZFP57', 'SPIC', 'POU5F1', 'MYCN', 'DMRT1', 'NANOG'}","[{'FOXI3'}, {'NEUROG1'}, {'DMRTB1'}, {'ZNF729'}, {'ZSCAN10'}, {'PRDM14'}, {'FOXR1'}, {'DNMT3L'}, {'ESX1'}, {'KLF17'}, {'DNMT3B'}, {'ZNF534'}, {'ZIC3'}, {'ALX4'}, {'ZNF90'}, {'ZFP42'}, {'ZFP57'}, {'SPIC'}, {'POU5F1'}, {'MYCN'}, {'DMRT1'}, {'NANOG'}]"
+Thyroid Carcinoma (TCGA),{''},[]
+Uterine Corpus Endometrial Carcinoma (TCGA),"{'VAX1', 'NEUROG2'}","[{'VAX1'}, {'NEUROG2'}]"
